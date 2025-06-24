@@ -1,0 +1,6 @@
+real_time_weather_app/
+│
+├── weather_app.py         # Main app logic
+├── README.md              # Project documentation
+├── requirements.txt       # Required libraries
+└── .gitignore             # Ignore pycache etc.
